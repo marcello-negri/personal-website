@@ -65,7 +65,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/uploads/resume.pdf
+  link: https://github.com/marcello-negri/personal-website/blob/master/static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "marcellomassimo.negri@gmail.com"
@@ -74,8 +74,4 @@ email: "marcellomassimo.negri@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a PhD student at the Biomedical Data Analysis group at the University of Basel with a broad interest in machine learning currently focuing on generative models such as VAEs and Normalizing Flows. Previosuly I had the chance to work on my MSc thesis at the Biomedical Informatics group under the supervision of prof. Rätsch. My project was developed at the interface between VAEs and meta learning, specifically the Model-Agnositc Meta-Learning approach, in order to find more expressive priors. During my MSc at the ETH, I was fortunate to work as a research assistant within the Data Analytics Lab in a deep learning project about gravitational wave physics in collaboration with the University of Geneve. As a esearch assistant I also worked at the Chair of Systems design, where I performed data analysis tasks in three different projects. My first experiences with research trace back to two research semester projects: the first concerning temporal networks at the Chair of Systems Design and the second about computational methods for symmetries in spin-boson systems at the TIQI group. Lastly, I first had the chance to work on machine learning methods during my BSc thesis, for which I exploited a boosted regression tree and a neural network to reconstruct the Higgs inariant mass ffrom its decay into tau leptons.
