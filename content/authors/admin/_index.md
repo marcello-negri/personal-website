@@ -6,15 +6,15 @@ title: Marcello Negri
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Basel
+  url: https://www.unibas.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have a broad interest in machine learning, probabilistic machine learning and computational physics.
+bio: I am a PhD student in with a broad interest in machine learning currently focuing on generative models such as VAEs and Normalizing Flows.
 
 # Interests to show in About widget
 interests:
@@ -25,12 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Machine Learning
+    institution: University of Basel
+    year: 2022-
+    url: https://www.unibas.ch/en.html
   - course: MSc in Physics
     institution: ETH Zürich
     year: 2019-2021
+    url: https://ethz.ch/en.html
   - course: BSc in Physics
     institution: Università degli Studi di Milano
     year: 2016-2019
+    url: https://www.unimi.it/en
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,18 +46,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/marcello-negri/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marcello-negri-b7b025176/
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
