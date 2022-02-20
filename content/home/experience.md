@@ -28,7 +28,7 @@ experience:
     location: Switzerland
     date_start: '2022-03-01'
     date_end: '2022-05-31'
-    description: I worked on a deep learning project in the framework of gravitational wave physics: I developed an emulator of complex cosmological simulations and an inverse-regression model to constraint the source of gravitational waves.
+    description: I worked on a deep learning project in the framework of gravitational wave physics. I developed an emulator of complex cosmological simulations and an inverse-regression model to constraint the source of gravitational waves.
         
   - title: Research assistant
     company: ETH Zürich - Systems Design
