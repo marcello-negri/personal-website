@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research assistant
     company: ETH Zürich - Data Analytics Lab (prof. Hofmann)
-    # company_logo: eth
+    company_logo: eth
     location: Switzerland
     date_start: '2022-03-01'
     date_end: '2022-05-31'
@@ -32,7 +32,7 @@ experience:
         
   - title: Research assistant
     company: ETH Zürich - Systems Design (prof. Schweitzer)
-    # company_logo: eth
+    company_logo: eth
     location: Switzerland
     date_start: '2021-06-01'
     date_end: '2021-02-28'
