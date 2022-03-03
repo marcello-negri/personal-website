@@ -1,6 +1,6 @@
 ---
 title: MSc Thesis
-summary: (Prof. Rätsch - Biomedical Informatics ETH) In my MSc thesis I worked at the interface between variational auto-encoders and meta-learning with the aim of find better and richer priors.
+summary: (Prof. **Rätsch** - **Biomedical Informatics ETH**) In my MSc thesis I worked at the interface between variational auto-encoders and meta-learning with the aim of find better and richer priors.
 
 tags:
 - Deep Learning
