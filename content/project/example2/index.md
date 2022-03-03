@@ -1,6 +1,6 @@
 ---
 title: Deep Learning for Gravitational Wave Physics
-summary: As a research assistant I developed deep learning methods to emulate complex cosmological simulations and inverse regression model to constrain the formation of gravitational waves.
+summary: (Prof. Hofmann - Data Analytics Lab ETH) As a research assistant I developed deep learning models to emulate a complex cosmological simulation and an inverse regression model to constrain the formation of gravitational waves.
 
 tags:
 - Deep Learning
@@ -31,5 +31,4 @@ url_video: ""
 slides: example
 ---
 
-I developed my MSc thesis at the ETH at the department of Biomedical Informatics supervised by Prof. G. Rätsch and co-supervised by Dr. V. Fortuin and Dr. J. Stühmer. In my project I studied on image datasets how meta-learning can be beneficial to variational auto-encoders and I proposed two priors that allow to achieve better performances. Specifically, I showed that the two priors lead to better bounds for VAEs and to richer latent representations, even more so when the model is trained in meta-learning fashion with the MAML algorithm. In addition, meta-learning allows to
-achieve higher accuracy in unsupervised few-shots classification, evaluated as a downstream task of prototypical networks. Lastly, I studied the behaviour of the proposed priors in transfer and continual learning settings. This experience has been particularly rewarding as the paper I wrote from my thesis has been eccepted at the Advances in Approximate Bayesian Inference (AABI) 2022 symposium.
+In collaboration with physicists from the University of Geneve, we developed two deep learning models to better undertand and simulate the complex physics behind gravitational waves produced by merging black holes. Specifically, we developed two models: (i) an emulator of cosmological simulations which evolves stars that eventually end up in merging and (ii) an inverse-regression model to constrain the origin of gravitational waves in terms of black holes channel formation. As a first step, we preprocess the available data and define appropirate metrics in order to accurately account for the underlying physics. Then we investigated the complexity of the problem by studying the contributions of non-linear mappings and we optimize ad-hoc mlp regressors and classifiers. The emulator allowed to obtain accurate simulations orders of magnitude faster while the inverse-model allowed us to develope a pipeline for experiemntal data (e.g. LIGO). Lastly, we exploited the LIME framework and shapley values to provide physical insights on the results, specifically explaining the role of each feature towards the predictions. This allowed us to confirm what was expected from theory but also to build new useful intuitions.
