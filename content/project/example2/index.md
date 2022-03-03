@@ -10,7 +10,7 @@ date: "2021-05-31T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: binary black holes
   focal_point: Smart
 
 links:
@@ -31,4 +31,4 @@ url_video: ""
 slides: example
 ---
 
-In collaboration with physicists from the University of Geneve, we developed two deep learning models to better undertand and simulate the complex physics behind gravitational waves produced by merging black holes. Specifically, we developed two models: (i) an emulator of cosmological simulations which evolves stars that eventually end up in merging and (ii) an inverse-regression model to constrain the origin of gravitational waves in terms of black holes channel formation. As a first step, we preprocess the available data and define appropirate metrics in order to accurately account for the underlying physics. Then we investigated the complexity of the problem by studying the contributions of non-linear mappings and we optimize ad-hoc mlp regressors and classifiers. The emulator allowed to obtain accurate simulations orders of magnitude faster while the inverse-model allowed us to develope a pipeline for experiemntal data (e.g. LIGO). Lastly, we exploited the LIME framework and shapley values to provide physical insights on the results, specifically explaining the role of each feature towards the predictions. This allowed us to confirm what was expected from theory but also to build new useful intuitions.
+In collaboration with physicists from the University of Geneve, we developed two deep learning models to better undertand and simulate the complex physics behind gravitational waves produced by binary black holes. Specifically, we developed two models: (i) an emulator of cosmological simulations which evolves stars that eventually end up in binary black holes and (ii) an inverse-regression model to constrain the origin of gravitational waves in terms of black holes channel formation. As a first step, we preprocess the available data and define appropirate metrics in order to accurately account for the underlying physics. Then we investigated the complexity of the problem by studying the contributions of non-linear mappings and we optimize ad-hoc mlp regressors and classifiers. The emulator allowed to obtain accurate simulations orders of magnitude faster while the inverse-model allowed us to develope a pipeline for experiemntal data (e.g. LIGO). Lastly, we exploited the LIME framework and shapley values to provide physical insights on the results, specifically explaining the role of each feature towards the predictions. This allowed us to confirm what was expected from theory but also to build new useful intuitions.
