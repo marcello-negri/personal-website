@@ -1,6 +1,6 @@
 ---
 title: MSc Thesis
-summary: (Prof. **Rätsch** - **Biomedical Informatics ETH**) In my MSc thesis I worked at the interface between variational auto-encoders and meta-learning with the aim of find better and richer priors.
+summary: Prof. **Rätsch** at **Biomedical Informatics ETH** -  In my MSc thesis I worked at the interface between **variational auto-encoders** and **meta-learning** with the aim of find better and richer priors.
 
 tags:
 - Deep Learning
@@ -31,5 +31,5 @@ url_video: ""
 slides: example
 ---
 
-I deeveloped my MSc thesis at the ETH at the department of Biomedical Informatics supervised by Prof. G. Rätsch and co-supervised by Dr. V. Fortuin and Dr. J. Stühmer. In my project I studied on image datasets how meta-learning can be beneficial to variational auto-encoders and I proposed two priors that allow to achieve better performances. Specifically, I showed that the two priors lead to better bounds for VAEs and to richer latent representations, even more so when the model is trained in meta-learning fashion with the MAML algorithm. In addition, meta-learning allows to
-achieve higher accuracy in unsupervised few-shots classification, evaluated as a downstream task of prototypical networks. Lastly, I studied the behaviour of the proposed priors in transfer and continual learning settings. This experience has been particularly rewarding as the paper I wrote from my thesis has been eccepted at the Advances in Approximate Bayesian Inference (AABI) 2022 symposium.
+I deeveloped my MSc thesis at the ETH at the department of Biomedical Informatics supervised by Prof. G. Rätsch and co-supervised by Dr. V. Fortuin and Dr. J. Stühmer. In my project I studied on **image datasets** how meta-learning can be beneficial to variational auto-encoders and I proposed two priors that allow to achieve better performances. Specifically, I showed that the two priors lead to better bounds for VAEs and to **richer latent representations**, even more so when the model is trained in **meta-learning** fashion with the MAML algorithm. In addition, meta-learning allows to
+achieve higher accuracy in unsupervised **few-shots classification**, evaluated as a downstream task of prototypical networks. Lastly, I studied the behaviour of the proposed priors in **transfer and continual learning** settings. This experience has been particularly rewarding as the **paper** I wrote from my thesis has been **accepted** at the Advances in Approximate Bayesian Inference (AABI) 2022 symposium.
