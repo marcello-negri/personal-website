@@ -1,5 +1,5 @@
 ---
-title: MSc Thesis
+title: MSc Thesis - "Meta-learning richer priors for VAEs"
 summary: Prof. **Rätsch** at **Biomedical Informatics ETH** -  In my MSc thesis I worked at the interface between **variational auto-encoders** and **meta-learning** with the aim of find better and richer priors.
 
 tags:
