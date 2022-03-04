@@ -10,7 +10,7 @@ date: "2019-07-22T00:00:00Z"
 external_link: ""
 
 image:
-  caption: AUC comparison
+  caption: DNN and MMC comparison
   focal_point: Smart
 
 links:
