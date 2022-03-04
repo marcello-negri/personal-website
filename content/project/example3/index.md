@@ -10,7 +10,7 @@ date: "2021-03-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: time stamped interactions aggregated into static networks (credit: A. Funel, 2021)
+  caption: time stamped interactions aggregated into static networks (credit A. Funel, 2021)
   focal_point: Smart
 
 links:
