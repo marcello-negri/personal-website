@@ -1,5 +1,5 @@
 ---
-title: BSc Thesis - *"Machine Learning for di-tau invariant mass reconstruction in ATLAS"*
+title: BSc Thesis - *Machine Learning for di-tau invariant mass reconstruction in ATLAS*
 summary: Prof. **Andreazza** at **Università Studi Milano** -  In my BSc thesis I exploited a Boosted Regreion Tree and a Neural Network to reconstruct the mass of the Higgs boson from its decay into tu leptons.
 
 tags:
