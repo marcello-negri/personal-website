@@ -31,8 +31,10 @@ content:
     tag: Deep Learning
   - name: Time Series
     tag: Time Series
-  - name: Other
-    tag: Demo
+  - name Computational Physics
+    tag: Computational Physics
+  #- name: Other
+  #  tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
