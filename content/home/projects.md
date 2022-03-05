@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Time Series
+    tag: Time Series
   - name: Other
     tag: Demo
 
