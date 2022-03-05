@@ -31,7 +31,7 @@ content:
     tag: Deep Learning
   - name: Time Series
     tag: Time Series
-  - name Computational Physics
+  - name: Computational Physics
     tag: Computational Physics
   #- name: Other
   #  tag: Demo
