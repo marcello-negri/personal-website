@@ -1,42 +1,33 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+---
+title: Bipartite Quantum Systems
+summary: Dr. **Reiter** at **Trapped Ion Quantum Information ETH** - As part of a **semester research project** I studied how to obtain an exponential reduction of complexity for simulating bipartite quantum systems coupled to a bosonic mode.
 
-\f0\fs24 \cf0 ---\
-title: Deep Learning for Gravitational Wave Physics\
-summary: As a research assistant I developed deep learning methods to emulate complex cosmological simulations and inverse regression model to constrain the formation of gravitational waves.\
-\
-tags:\
-- Deep Learning\
-date: "2021-05-31T00:00:00Z"\
-\
-# Optional external URL for project (replaces project detail page).\
-external_link: ""\
-\
-image:\
-  caption: Photo by rawpixel on Unsplash\
-  focal_point: Smart\
-\
-links:\
-#- icon: twitter\
-#  icon_pack: fab\
-#  name: Follow\
-#  url: https://twitter.com/georgecushen\
-url_code: ""\
-url_pdf: ""\
-url_slides: ""\
-url_video: ""\
-\
-# Slides (optional).\
-#   Associate this project with Markdown slides.\
-#   Simply enter your slide deck's filename without extension.\
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.\
-#   Otherwise, set `slides = ""`.\
-slides: example\
----\
-\
-I developed my MSc thesis at the ETH at the department of Biomedical Informatics supervised by Prof. G. R\'e4tsch and co-supervised by Dr. V. Fortuin and Dr. J. St\'fchmer. In my project I studied on image datasets how meta-learning can be beneficial to variational auto-encoders and I proposed two priors that allow to achieve better performances. Specifically, I showed that the two priors lead to better bounds for VAEs and to richer latent representations, even more so when the model is trained in meta-learning fashion with the MAML algorithm. In addition, meta-learning allows to\
-achieve higher accuracy in unsupervised few-shots classification, evaluated as a downstream task of prototypical networks. Lastly, I studied the behaviour of the proposed priors in transfer and continual learning settings. This experience has been particularly rewarding as the paper I wrote from my thesis has been eccepted at the Advances in Approximate Bayesian Inference (AABI) 2022 symposium.}
+tags:
+- Computational Physics
+date: "2021-03-01T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: time stamped interactions aggregated into static networks (credit A. Funel, 2021)
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
+In this semester research project we study computational methods for analysing ensembles of two level systems coupled to a bosonic mode in an open system setting, which is highly relevant for simulating such systems and verifying hypothesis. When all two level systems are assumed to be identical the permutational symmetry allows to exponentially reduce the computational resources needed and lead to efficient computational solutions, implemented in the library Permutational Invariant Quantum Solver (PIQS). However, as soon as a one two level system can be distinguished from the others, the permutational symmetry is broken and the exponential complexity is recovered. In this project we showed that, in the case of bipartite system composed of two level systems belonging to two different species, the speedup is still exponential and gives a way to estimate the complexity for a more general mixed-species scenario, which is of great scientific interest.
