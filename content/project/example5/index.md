@@ -10,7 +10,7 @@ date: "2021-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: time stamped interactions aggregated into static networks (credit A. Funel, 2021)
+  caption: bipartite two-level system coupled to bosonic mode
   focal_point: Smart
 
 links:
