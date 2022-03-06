@@ -1,5 +1,5 @@
 ---
-title: Deep Learning for Gravitational Wave Physics
+title: Research assistant project - Deep Learning for Gravitational Wave Physics
 summary: Prof. **Hofmann** at **Data Analytics Lab ETH** - As a **research assistant** I developed deep learning models to emulate a complex cosmological simulation and an inverse regression model to constrain the formation of **gravitational waves**.
 
 tags:
