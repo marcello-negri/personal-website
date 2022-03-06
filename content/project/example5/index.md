@@ -1,5 +1,5 @@
 ---
-title: Bipartite Quantum Systems
+title: Semester research project - Bipartite Quantum Systems
 summary: Dr. **Reiter** at **Trapped Ion Quantum Information ETH** - As part of a **semester research project** I studied how to obtain an exponential reduction of complexity for simulating bipartite quantum systems coupled to a bosonic mode.
 
 tags:
