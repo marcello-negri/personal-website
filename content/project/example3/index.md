@@ -1,5 +1,5 @@
 ---
-title: Optimal Time Window to Aggregate Time-Stamped Interactions
+title: Semester research project - Optimal Time Window for Time-Stamped Interactions
 summary: Prof. **Schweitzer** at **Systems Design ETH** - As part of a **semester research project** I developed a mathematical framework to identify the optimal time window to aggregate time stamped interactions into a sequence of static networks.
 
 tags:
