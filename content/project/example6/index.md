@@ -1,5 +1,5 @@
 ---
-title: Vital signs and disease progression of hospitalized patients
+title: Course project - Vital signs and disease progression of hospitalized patients
 summary: As part of the course **Introduction to Machine Learning** we developed in a group of two a deep learning model to forecast vital signs and disease progression for hospitalized patients.
 
 tags:
