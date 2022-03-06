@@ -5,7 +5,7 @@ summary: As part of the course **Introduction to Machine Learning** we developed
 tags:
 - Deep Learning
 - Time Series
-date: "2020-06-01T00:00:00Z"
+date: "2021-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
