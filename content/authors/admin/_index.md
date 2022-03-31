@@ -14,7 +14,7 @@ organizations:
   url: https://www.unibas.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in with a broad interest in machine learning currently focuing on generative models such as VAEs and Normalizing Flows.
+bio: I am a PhD student with a broad interest in machine learning currently focusing on generative models such as VAEs and Normalizing Flows.
 
 # Interests to show in About widget
 interests:
@@ -74,4 +74,4 @@ email: "marcellomassimo.negri@gmail.com"
 highlight_name: true
 ---
 
-I am a PhD student at the Biomedical Data Analysis group at the University of Basel with a broad interest in machine learning. Previously, I had the chance to developed my MSc thesis supervised of prof. Rätsch (Biomedical Informatics ETH), working at the interface between **VAEs** and **meta-learning** in order to find more expressive priors. I was fortunate to work as a **research assistant** within the **Data Analytics Lab** ETH in a deep learning project about gravitational wave physics in collaboration with the University of Geneve. As a research assistant I also worked at the Chair of **Systems design**, where I performed data analysis tasks in three different projects. My first experiences with research trace back to two **research semester projects** at the ETH - one about temporal networks (Systems Design ETH) and one about computational methods for quantum computers (TIQI ETH) - while I first worked with machine learning in my BSc thesis to reconstruct the Higgs inariant mass from its decay into tau leptons.
+I am a PhD student at the University of Basel under the supervision of prof. Roth with a broad interest in machine learning. Previously, I had the chance to develop my MSc thesis supervised of prof. Rätsch (Biomedical Informatics ETH), working at the interface between **VAEs** and **meta-learning** in order to find more expressive priors. I was fortunate to work as a **research assistant** within the **Data Analytics Lab** ETH in a deep learning project about gravitational wave physics in collaboration with the University of Geneve. As a research assistant I also worked at the Chair of **Systems Design**, where I performed data analysis tasks in three different projects. My first experiences with research trace back to two **research semester projects** at the ETH - one about temporal networks (Systems Design ETH) and one about computational methods for quantum computers (TIQI ETH) - while I first worked with machine learning in my BSc thesis to reconstruct the Higgs invariant mass from its decay into tau leptons.
