@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: temperature predictions for the heat equation experiment. (a) Ground truth (b) uniform sampling, and (c) proposed pdPINN
+  caption: temperature predictions for heat equation (a) Ground truth (b) uniform sampling, and (c) proposed pdPINN
   focal_point: ""
   preview_only: false
 
