@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: the LFlow consist of a composition of bijective layers. Red lines denote trajectories of fluid parcels.
+  caption: Left: LFlow is a single time-conditioned Normalizing Flow. Right: in red we denote trajectories of fluid parcels.
   focal_point: ""
   preview_only: false
 
