@@ -1,12 +1,15 @@
 ---
-title: "Conditional Matrix Flows for Gaussian Graphical Models"
+title: "Lagrangian Flow Networks for Conservation Laws"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- 
 - Fabricio Arend Torres
+- admin
+- Marco Inversi
+- Jonathan Aellen
 - Volker Roth
 
 # Author notes (optional)
@@ -15,7 +18,7 @@ authors:
 #- 
 #- 
 
-date: "2023-09-30T00:00:00Z"
+date: "2023-09-15T00:00:00Z"
 doi: ""
 
 
@@ -23,16 +26,15 @@ doi: ""
 # Legend: 0 = Uncategorised; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *NeurIPS 2023*
-#publication_short: In *AABI*
+publication: under review at *ICLR 2024*
+# publication_short: In *AABI*
 
-abstract: Studying conditional independence among many variables with few observations is a challenging task. Gaussian Graphical Models (GGMs) tackle this problem by encouraging sparsity in the precision matrix through lq regularization with q < 1. However, most GMMs rely on the l1 norm because the objective is highly non-convex for sub-l1 pseudo-norms. In the frequentist formulation, the l1 norm relaxation provides the solution path as a function of the shrinkage parameter λ. In the Bayesian formulation, sparsity is instead encouraged through a Laplace prior, but posterior inference for different λ requires repeated runs of expensive Gibbs samplers. Here we propose a general framework for variational inference with matrix-variate Normalizing Flow in GGMs, which unifies the benefits of frequentist and Bayesian frameworks. As a key improvement on previous work, we train with one flow a continuum of sparse regression models jointly for all regularization parameters λ and all lq norms, including non-convex sub-l1 pseudo-norms. Within one model we thus have access to (i) the evolution of the posterior for any λ and any lq (pseudo-) norm, (ii) the marginal log-likelihood for model selection, and (iii) the frequentist solution paths through simulated annealing in the MAP limit.
+abstract: We introduce Lagrangian Flow Networks (LFlows) for modeling fluid densities and velocities continuously in space and time. By construction, the proposed LFlows satisfy the continuity equation, a PDE describing mass conservation in its differentiable form. Our model is based on the insight that solutions to the continuity equation can be expressed as time-dependent density transformations via differentiable and invertible maps. This follows from classical theory of the existence and uniqueness of Lagrangian flows for smooth vector fields. Hence, we model fluid densities by transforming a base density with parameterized diffeomorphisms conditioned on time. The key benefit compared to methods relying on numerical ODE solvers or PINNs is that the analytic expression of the velocity is always consistent with changes in density. Furthermore, we require neither expensive numerical solvers, nor additional penalties to enforce the PDE. LFlows show higher predictive accuracy in density modeling tasks compared to competing models in 2D and 3D, while being computationally efficient. As a real-world application, we model bird migration based on sparse weather radar measurements.
 # Summary. An optional shortened abstract.
-summary: We propose a general variational inference framework for Gaussian Graphical Models through matrix-variate Normalizing Flows 
-
+summary: We introduce Lagrangian Flow Networks (LFlows) for modeling fluid densities and velocities such that the continuity equation is satisfied by construction.
 tags: [Normalizing Flows, Gaussian Graphical Models, sparsity, variational inference]
 
 # Display this page in the Featured widget?
@@ -43,10 +45,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/pdf?id=GYnbubCXhE'
-url_code: 'https://github.com/marcello-negri/CMF'
+url_pdf: 'https://arxiv.org/pdf/2305.16846.pdf'
+url_code: 'https://github.com/FabricioArendTorres/FlowConductor'
 url_dataset: ''
-url_poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72206.png?t=1701263669.496748'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -55,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: the proposed CMF is defined on the space of symmetric positive definite matrices by construction
+  caption: the proposed LFlows architecture is a composition of bijective layers. Red lines denote trajectories of fluid parcels.
   focal_point: ""
   preview_only: false
 
