@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: (left) LFlow is a single time-conditioned Normalizing Flow. (right) in red the resulting trajectories of fluid parcels.
+  caption: (left) LFlow is a single time-conditioned Flow. (right) in red the resulting trajectories of fluid parcels.
   focal_point: ""
   preview_only: false
 
