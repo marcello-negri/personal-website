@@ -26,7 +26,7 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advances in Approximate Bayesian Inference*
+publication: *Advances in Approximate Bayesian Inference*
 publication_short: In *AABI*
 
 abstract: Variational auto-encoders have proven to capture complicated data distributions and useful latent representations, while advances in meta-learning have made it possible to extract prior knowledge from data. We incorporate these two approaches and propose a novel flexible prior, namely the Pseudo-inputs prior, to obtain a richer latent space. We train VAEs using the Model-Agnostic Meta-Learning (MAML) algorithm and show that it achieves comparable reconstruction performance with standard training. However, we show that this MAML-VAE model learns richer latent representations, which we evaluate in terms of unsupervised few-shot classification as a downstream task. Moreover, we show that our proposed Pseudo-inputs prior outperforms baseline priors, including the VampPrior, in both models, while also encouraging high-level representations through its pseudo-inputs.
