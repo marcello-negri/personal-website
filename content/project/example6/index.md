@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-#- icon: twitter
+#  icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
