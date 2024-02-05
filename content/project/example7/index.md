@@ -10,7 +10,7 @@ date: "2023-12-01T00:00:00Z"
 external_link: ""
 
 image:
-  the solution proposed
+  caption: the solution proposed
   focal_point: Smart
 
 links:
