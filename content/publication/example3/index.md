@@ -26,7 +26,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *NeurIPS 2023*
+publication: In *NeurIPS 2023*
 #publication_short: In *AABI*
 
 abstract: Studying conditional independence among many variables with few observations is a challenging task. Gaussian Graphical Models (GGMs) tackle this problem by encouraging sparsity in the precision matrix through lq regularization with q < 1. However, most GMMs rely on the l1 norm because the objective is highly non-convex for sub-l1 pseudo-norms. In the frequentist formulation, the l1 norm relaxation provides the solution path as a function of the shrinkage parameter λ. In the Bayesian formulation, sparsity is instead encouraged through a Laplace prior, but posterior inference for different λ requires repeated runs of expensive Gibbs samplers. Here we propose a general framework for variational inference with matrix-variate Normalizing Flow in GGMs, which unifies the benefits of frequentist and Bayesian frameworks. As a key improvement on previous work, we train with one flow a continuum of sparse regression models jointly for all regularization parameters λ and all lq norms, including non-convex sub-l1 pseudo-norms. Within one model we thus have access to (i) the evolution of the posterior for any λ and any lq (pseudo-) norm, (ii) the marginal log-likelihood for model selection, and (iii) the frequentist solution paths through simulated annealing in the MAP limit.
