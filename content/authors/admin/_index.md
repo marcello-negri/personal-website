@@ -14,13 +14,13 @@ organizations:
   url: https://www.unibas.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student with a broad interest in machine learning currently focusing on generative models such as VAEs and Normalizing Flows.
+bio: I am a PhD student with a broad interest in machine learning currently focusing on Bayesian Inference with Normalizing Flows and Physics-informed machine learning.
 
 # Interests to show in About widget
 interests:
-- Machine learning
-- Probabilistic machine learning
-- Computational physics
+- Bayesian Inference with Normalizing Flows
+- Sparsity and interpretability
+- Physics-informed machine learning
 
 # Education to show in About widget
 education:
@@ -74,4 +74,11 @@ email: "marcellomassimo.negri@gmail.com"
 highlight_name: true
 ---
 
-I am a PhD student at the University of Basel under the supervision of prof. Roth and I have a broad interest in machine learning. Previously, I had the chance to develop my MSc thesis supervised of prof. Rätsch (Biomedical Informatics ETH), working at the interface between **VAEs** and **meta-learning** in order to find more expressive priors. I was fortunate to work as a **research assistant** within the **Data Analytics Lab** ETH in a deep learning project about gravitational wave physics in collaboration with the University of Geneve. As a research assistant I also worked at the Chair of **Systems Design**, where I performed data analysis tasks in three different projects. My first experiences with research trace back to two **research semester projects** at the ETH - one about temporal networks (Systems Design ETH) and one about computational methods for quantum computers (TIQI ETH) - while I first worked with machine learning in my BSc thesis to reconstruct the Higgs invariant mass from its decay into tau leptons.
+I am a PhD student at the University of Basel under the supervision of [Volker Roth](https://scholar.google.com/citations?user=v1qj03cAAAAJ&hl=en) and I have a broad interest in machine learning. 
+Currently, I am working to make machine learning models more expressive and interpretable at the same time. As a first result we improved sparsity in Bayesian graphical models with (Conditional) Matrix Flows (see [NeurIPS](https://neurips.cc/virtual/2023/poster/72206) publication).
+In parallel, together with Fabricio Arend Torres we developed a Physics-informed deep learning model that conserved the continuity equation by construction (see [ICLR Spotlight](https://arxiv.org/abs/2305.16846) - top 5% best papers).
+I also supervised three student projects, two in the context of attention for *image segmentation* and one in the context of equivariance in *diffusion models*.
+
+Previously, I worked on my MSc thesis with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ&hl=en) (ETH) at the interface between **VAEs** and **meta-learning**. 
+As a **research assistant** I worked with [Aurelian Lucchi](https://scholar.google.com/citations?user=V1ONSgIAAAAJ&hl=en) and [Thomas Hofmann](https://scholar.google.com/citations?user=T3hAyLkAAAAJ&hl=en) (ETH) on a inter-disciplinary project about deep learning for gravitational wave physics. 
+Previously, I also worked with [Frank Schweitzer](https://scholar.google.com/citations?user=U5PTwZsAAAAJ&hl=en) (ETH) to help the group with data analysis tasks in three different projects.
