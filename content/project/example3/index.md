@@ -1,6 +1,6 @@
 ---
-title: Optimal Time Window for Time-Stamped Interactions
-summary: As part of a semester research project I developed a mathematical framework to identify the optimal time window to aggregate time stamped interactions into a sequence of static networks.
+title: Optimal time window in time series
+summary: As part of a **semester research project** I developed a mathematical framework to identify the optimal time window to aggregate **time series** into static networks.
 
 tags:
 - Time Series

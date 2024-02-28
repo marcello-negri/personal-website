@@ -1,6 +1,6 @@
 ---
 title: Deep Learning for Gravitational Wave Physics
-summary: As a **research assistant** I developed deep learning models to emulate complex cosmological simulations and an inverse regression model to constrain the formation of binary black holes generating **gravitational waves**.
+summary: As a **research assistant** I developed deep learning models to emulate complex cosmological simulations and to constraint the formation of black holes emitting **gravitational waves**.
 
 tags:
 - Deep Learning

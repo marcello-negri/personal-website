@@ -1,9 +1,10 @@
 ---
-title: Machine Learning for di-tau invariant mass reconstruction in ATLAS
-summary: With the help of a Boosted Regression Tree and a Neural Network I reconstructed the mass of the Higgs boson from its decay into tau leptons.
+title: ML for di-tau mass reconstruction in ATLAS
+summary: With the help of a **Boosted Regression Tree** and a Neural Network I reconstructed the mass of the Higgs boson from its decay into tau leptons.
 
 tags:
 - Deep Learning
+- Computational Physics
 date: "2019-07-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

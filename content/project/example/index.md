@@ -1,6 +1,6 @@
 ---
 title: Meta-learning richer priors for VAEs
-summary: In my MSc thesis I worked at the interface between **variational auto-encoders** and **meta-learning** with the aim of find better and richer priors.
+summary: In my MSc thesis I worked at the interface between **VAEs** and **meta-learning** with the aim of find better and richer priors.
 
 tags:
 - Deep Learning
