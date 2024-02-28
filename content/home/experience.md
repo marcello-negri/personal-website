@@ -28,7 +28,7 @@ experience:
     location: Switzerland
     date_start: '2022-03-01'
     date_end: '2022-05-31'
-    description: I built a deep learning emulator of complex cosmological simulations and an inverse regression model to constrain the source of gravitational waves originating from binary black holes.
+    description: I built a deep learning emulator of complex cosmological simulations and an inverse regression model to constrain the source of gravitational waves originating from black holes.
         
   - title: Research assistant
     company: ETH Zürich - Systems Design (prof. Schweitzer)
