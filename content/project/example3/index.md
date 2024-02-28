@@ -1,6 +1,6 @@
 ---
-title: Semester research project - Optimal Time Window for Time-Stamped Interactions
-summary: Prof. **Schweitzer** at **Systems Design ETH** - As part of a **semester research project** I developed a mathematical framework to identify the optimal time window to aggregate time stamped interactions into a sequence of static networks.
+title: Optimal Time Window for Time-Stamped Interactions
+summary: As part of a semester research project I developed a mathematical framework to identify the optimal time window to aggregate time stamped interactions into a sequence of static networks.
 
 tags:
 - Time Series
@@ -31,4 +31,9 @@ url_video: ""
 slides: example
 ---
 
-In this semester research project, we followed a two-fold approach. First, time-stamped interactions are aggregated according to a specified **time window** size, leading to a sequence of static aggregated networks. Second, **relations** are extracted from each aggregated network. The main challenge is that relations between system elements may change over time and the choice of the time window size is crucial to distinguish meaningful topological changes from **random fluctuations**. We overcome this problem by identifying **regularities** in the sequence of aggregated networks at different time windows, specifically by measuring the **similarity** between consecutive networks. This allows us not only to find the optimal time window size but also to identify precisely the **timescales** at which relations between agents change. This project has been particularly rewarding as we are currently continuing our collaboration to publish my work, which will be likely submitted to **Nature Communications**.
+In this semester research project within the chairs of **Systems Design** (ETH), we followed a two-fold approach. 
+First, time-stamped interactions are aggregated according to a specified **time window** size, leading to a sequence of static aggregated networks. 
+Second, **relations** are extracted from each aggregated network. 
+The main challenge is that relations between system elements may change over time and the choice of the time window size is crucial to distinguish meaningful topological changes from **random fluctuations**. 
+We overcome this problem by identifying **regularities** in the sequence of aggregated networks at different time windows, specifically by measuring the **similarity** between consecutive networks. 
+This allows us not only to find the optimal time window size but also to identify precisely the **timescales** at which relations between agents change.

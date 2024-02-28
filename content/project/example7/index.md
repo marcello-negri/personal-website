@@ -1,6 +1,6 @@
 ---
-title: Hack4Good, Human Rights Watch - Remote detection of village burnings in Darfur, Sudan
-summary: As part of the project Hack4Good (ETH) we helped Human Rights Watch developing a software to detect and monitor active fires in Darfur, Sudan
+title: Remote detection of village burnings in Darfur
+summary: As part of the project **Hack4Good** (ETH) we helped **Human Rights Watch** developing a software to detect and monitor active fires in Darfur, Sudan
 
 tags:
 - Time Series

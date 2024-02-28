@@ -14,7 +14,7 @@ organizations:
   url: https://www.unibas.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student with a broad interest in machine learning currently focusing on Bayesian Inference with Normalizing Flows and Physics-informed machine learning.
+bio: I am a PhD student in machine learning currently trying to make models more flexible and interpretable.
 
 # Interests to show in About widget
 interests:
@@ -74,11 +74,16 @@ email: "marcellomassimo.negri@gmail.com"
 highlight_name: true
 ---
 
-I am a PhD student at the University of Basel under the supervision of [Volker Roth](https://scholar.google.com/citations?user=v1qj03cAAAAJ&hl=en) and I have a broad interest in machine learning. 
-Currently, I am working to make machine learning models more expressive and interpretable at the same time. As a first result we improved sparsity in Bayesian graphical models with (Conditional) Matrix Flows (see [NeurIPS](https://neurips.cc/virtual/2023/poster/72206) publication).
-In parallel, together with Fabricio Arend Torres we developed a Physics-informed deep learning model that conserved the continuity equation by construction (see [ICLR Spotlight](https://arxiv.org/abs/2305.16846) - top 5% best papers).
-I also supervised three student projects, two in the context of attention for *image segmentation* and one in the context of equivariance in *diffusion models*.
+I am a highly motivated PhD student at the University of Basel under the supervision of [Volker Roth](https://scholar.google.com/citations?user=v1qj03cAAAAJ&hl=en). 
+Currently, I am working to make machine learning models more expressive and interpretable at the same time. 
 
-Previously, I worked on my MSc thesis with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ&hl=en) (ETH) at the interface between **VAEs** and **meta-learning**. 
-As a **research assistant** I worked with [Aurelian Lucchi](https://scholar.google.com/citations?user=V1ONSgIAAAAJ&hl=en) and [Thomas Hofmann](https://scholar.google.com/citations?user=T3hAyLkAAAAJ&hl=en) (ETH) on a inter-disciplinary project about deep learning for gravitational wave physics. 
+As a first result we improved sparsity in Bayesian graphical models with Conditional Matrix Flows (see [NeurIPS](https://neurips.cc/virtual/2023/poster/72206) publication). 
+In parallel, together with Fabricio Arend Torres we developed a physics-informed deep learning model that conserves the continuity equation by construction (see [ICLR Spotlight](https://arxiv.org/abs/2305.16846) - top 5% papers). 
+
+We also developed a comprehensive library of (conditional) Normalizing Flows in PyTorch named [FlowConductor](https://github.com/FabricioArendTorres/FlowConductor). 
+
+As a side project, I recently helped Human Rights Watch developing a software to detect village burnings in Darfur, Sudan.
+
+Previously, I worked on my MSc thesis with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ&hl=en) (ETH) at the interface between VAEs and meta-learning. 
+As a research assistant I worked with [Aurelian Lucchi](https://scholar.google.com/citations?user=V1ONSgIAAAAJ&hl=en) and [Thomas Hofmann](https://scholar.google.com/citations?user=T3hAyLkAAAAJ&hl=en) (ETH) on a inter-disciplinary project about deep learning for gravitational wave physics. 
 Previously, I also worked with [Frank Schweitzer](https://scholar.google.com/citations?user=U5PTwZsAAAAJ&hl=en) (ETH) to help the group with data analysis tasks in three different projects.

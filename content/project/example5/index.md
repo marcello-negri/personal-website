@@ -1,6 +1,6 @@
 ---
-title: Semester research project - Bipartite Quantum Systems
-summary: Dr. **Reiter** at **Trapped Ion Quantum Information ETH** - As part of a **semester research project** I studied how to obtain an exponential reduction of complexity for simulating bipartite quantum systems coupled to a bosonic mode.
+title: Bipartite Quantum Systems
+summary: As part of a **semester research project** I studied how to obtain an exponential reduction of complexity for simulating bipartite quantum systems coupled to a bosonic mode.
 
 tags:
 - Computational Physics
@@ -30,4 +30,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-In this semester research project, we studied computational methods for analysing ensembles of two level systems coupled to a bosonic mode in an open system setting, which is highly relevant for simulating such systems and verifying hypothesis. When all two-level systems are assumed to be identical, the **permutational symmetry** allows to exponentially reduce the computational resources needed and lead to efficient computational solutions - which are implemented in the library Permutational Invariant Quantum Solver **PIQS**. However, as soon as one two-level system can be distinguished from the others, the permutational symmetry is broken and the exponential complexity is recovered. In this project we showed that, in the case of bipartite system composed of two level systems belonging to **two different species**, the speedup is still **exponential** and allows to estimate the complexity for a more general mixed-species scenario, which is of great scientific interest.
+In this semester research project at the Trapped Ion Quantum Physics group (ETH), we studied computational methods for analysing ensembles of two level systems coupled to a bosonic mode in an open system setting, which is highly relevant for simulating such systems and verifying hypothesis. 
+When all two-level systems are assumed to be identical, the **permutational symmetry** allows to exponentially reduce the computational resources needed and lead to efficient computational solutions - which are implemented in the library Permutational Invariant Quantum Solver **PIQS**. 
+However, as soon as one two-level system can be distinguished from the others, the permutational symmetry is broken and the exponential complexity is recovered. 
+In this project we showed that, in the case of bipartite system composed of two level systems belonging to **two different species**, the speedup is still **exponential** and allows to estimate the complexity for a more general mixed-species scenario, which is of great scientific interest.

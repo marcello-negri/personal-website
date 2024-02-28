@@ -1,6 +1,6 @@
 ---
-title: Research assistant project - Deep Learning for Gravitational Wave Physics
-summary: Prof. **Hofmann** at **Data Analytics Lab ETH** - As a **research assistant** I developed deep learning models to emulate complex cosmological simulations and an inverse regression model to constrain the formation of binary black holes generating **gravitational waves**.
+title: Deep Learning for Gravitational Wave Physics
+summary: As a **research assistant** I developed deep learning models to emulate complex cosmological simulations and an inverse regression model to constrain the formation of binary black holes generating **gravitational waves**.
 
 tags:
 - Deep Learning
@@ -31,4 +31,11 @@ url_video: ""
 slides: example
 ---
 
-In collaboration with physicists from the **University of Geneve**, we developed two deep learning models to better understand and simulate the complex physics behind gravitational waves produced by binary black holes. Specifically, we developed two models: (i) an **emulator** of cosmological simulations which makes stars evolve, eventually ending up in binary black holes, and (ii) an **inverse-regression** model to constrain the origin of gravitational waves in terms of black holes channel formation. As a first step, we pre-processed the available data and defined **appropriate metrics** in order to accurately account for the underlying physics. Then we investigated the complexity of the problem by studying the contributions of **non-linear mappings** and we optimized ad-hoc mlp regressors and classifiers. The emulator allowed to obtain accurate simulations orders of magnitude faster while the inverse-model allowed us to develop a pipeline for experimental data (e.g. LIGO). Lastly, we exploited the **LIME framework** and **shapley values** to provide physical insights on the results, specifically explaining the role of each feature towards the predictions. This allowed us to confirm what was expected from theory but also to build new **useful intuitions**.
+Within this project I worked as a research assistant at the **Data Analytics Lab** (ETH) in collaboration with physicists from the **University of Geneve**.
+We developed two deep learning models to better understand and simulate the complex physics behind gravitational waves produced by binary black holes. 
+Specifically, we developed two models: (i) an **emulator** of cosmological simulations which makes stars evolve, eventually ending up in binary black holes, and (ii) an **inverse-regression** model to constrain the origin of gravitational waves in terms of black holes channel formation. 
+As a first step, we pre-processed the available data and defined **appropriate metrics** in order to accurately account for the underlying physics. 
+Then we investigated the complexity of the problem by studying the contributions of **non-linear mappings** and we optimized ad-hoc mlp regressors and classifiers. 
+The emulator allowed to obtain accurate simulations orders of magnitude faster while the inverse-model allowed us to develop a pipeline for experimental data (e.g. LIGO). 
+Lastly, we exploited the **LIME framework** and **shapley values** to provide physical insights on the results, specifically explaining the role of each feature towards the predictions. 
+This allowed us to confirm what was expected from theory but also to build new useful intuitions.
