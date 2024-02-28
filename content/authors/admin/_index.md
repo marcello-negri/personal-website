@@ -77,8 +77,8 @@ highlight_name: true
 I am a highly motivated PhD student at the University of Basel under the supervision of [Volker Roth](https://scholar.google.com/citations?user=v1qj03cAAAAJ&hl=en). 
 Currently, I am working to make machine learning models more expressive and interpretable at the same time. 
 
-As a first result we improved sparsity in Bayesian graphical models with Conditional Matrix Flows (see [NeurIPS](https://neurips.cc/virtual/2023/poster/72206) publication). 
-In parallel, together with Fabricio Arend Torres we developed a physics-informed deep learning model that conserves the continuity equation by construction (see [ICLR Spotlight](https://arxiv.org/abs/2305.16846) - top 5% papers). 
+As a first result we improved sparsity in Bayesian graphical models with Conditional Matrix Flows (see [**NeurIPS**](https://neurips.cc/virtual/2023/poster/72206) publication). 
+In parallel, together with Fabricio Arend Torres we developed a physics-informed deep learning model that conserves the continuity equation by construction (see **[ICLR Spotlight](https://arxiv.org/abs/2305.16846)** - top 5% papers). 
 
 We also developed a comprehensive library of (conditional) Normalizing Flows in PyTorch named [FlowConductor](https://github.com/FabricioArendTorres/FlowConductor). 
 
